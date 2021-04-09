@@ -1,26 +1,53 @@
-"Save_Instagram_Des"="مع هذا الميزة,\n - تحميل الفيديوهات والصور وامكانية مشاركتهم, \n -استيراد صوت الفيديوهات من المنشورات \n -نسخ النص \n - تشغيل الفديو";
-"Save_Instagram"="حفط الوسائط";
-"ShowLikes"="اظهار عدد الاعجابات";
-"ShowLikes_Des"="تستطيع مشاهدة عدد الاعجابات وعدد مشاهدة الفيديوهات للمنشورات";
-"RemoveAds"="حذف الاعلانات من المنشورات";
-"Remove_ads_Storeis"="حذف اعلاناتا القصص";
+"Save_Instagram_Des"=" من خلال هذا الميزة \n  تستطيع حفظ الفيديوهات والصور ونسخ الوصف";
+"Save_Instagram"="حفظ الوسائط";
+"ShowLikes"="عرض الاعجابات";
+"ShowLikes_Des"="يمكنك مشاعدة عدد الاعجابات وعدد المشاهدات  للفيديوهات";
+"RemoveAds"="تعطيل الاعلانات";
 "Disable_auto_Stories"="تعطيل التقدم التلقائي للقصص";
-"Disable_EmojiPicker"="تعطيل الرموز التعبيرية في التعاليق";
-"VerifiedProfile"="توثيق الحساب وهمي";
+"Remove_ads_Storeis"="تعطيل الاعلانات من القصص";
+"Disable_EmojiPicker"="تعطيل الملصقات في التعاليق";
+"VerifiedProfile"="Verifed profile (Spoof)";
 "Black_Keybord"="كيبورد اسود";
-"SpoofFollows"="متابعين وهمين";
-"TypeHereNumber"="اكتب الرقم هنا";
-"SpoofStore"="مشاهدة القصص وهمي";
-"Spoof_Post_Like"="اعجابات المنشورات وهمي";
-"Spoof_Des"="مع هذا الميزات تستطيع مشاهداتها فقط انت";
-"Copy_Comments"="نسخ التعاليق";
-"Copy_Description"="نسخ الوصف";
-"More_Options_Profile_DES"="مع هذا الزر سيسمح لك \n -نسخ اليوزرنيم \n -نسخ الاسم \n -نسخ رابط البايو \n -نسخ البايو \n -مشاهدة صورة البروفايل \n -اظهار رقم عدد المتابعين ";
-"Options_Profile"="اضافة خيارات للبروفايل";
-"Disable_Typing_IGDirect"="تعطيل جاري الكتابة";
-"Disable_Typing_IGDirect_Des"="تعطيل جاري الكتابة في الخاص";
-"Confirm_Like_Instagram"="تاكيد الاعجاب";
-"Disable_Message_Seen_Receipt_Instagram"="تعطيل مشاهدة الرسائل";
-"Disable_Story_Seen_Receipt_Instagram"="تعطيل مشاهدة الستوري";
-"Show_Profile_Picture"="مشاهدة صورة البروفيل";
-"Show_Follow_Status"="مشاهدة حالة المتابعة";
+"SpoofFollows"="Spoof follows";
+"TypeHereNumber"="Type number here";
+"SpoofStore"="Spoof store";
+"Spoof_Post_Like"="Spoof post like";
+"Spoof_Des"="These features will only appear to you";
+"COPY_COMMENTS"="نسخ التعاليق";
+"COPY_DESCRIPTION"="نسخ الوصف";
+"CONFIRM_LIKE_INSTAGRAM"="تاكيد الاعجاب";
+
+
+/* POST */
+
+"OPTIONS_POST"="خيارات المنشورات";
+"SAVE_VIDEO_POST"="حفظ الوسائط";
+"SAVE_VIDEO_IGTV"="IGTV حفظ فيديوهات ال ";
+"SAVE_VIDEO_REEL"="Reel حفظ فيديوهات ال";
+
+
+/* STORIES  */
+
+"OPTIONS_STOIRES"="خيارات القصص";
+"SAVE_STORIRES"="حفظ القصص";
+"DISABLE_AUTO_STORIRES"="تعطيل التقدم التلقائي";
+"DISABLE_ADS_STORIRES"="تعطيل الاعلانات";
+"DISABLE_STORY_SEEN_RECEIPT"="تعطيل المشاهدة";
+"KEEP_UNSENT_MESSAGES_INSTAGRAM"="مشاهدة الرسائل المحذوفة";
+"SAVE_MEDIA_DM_INSTGARAM"="حفظ الوسائط في الخاص";
+
+/* DIRECT MESSAGE */
+
+"OPTIONS_DIRECT_MESSAGE"="خيارات الرسائل";
+"DISABLE_DIRECT_MESSAGE_SEEN_RECEIPT"="تعطيل المشاهدة";
+"DISABLE_DIRECT_MESSAGE_TYPING_RECEIPT"="تعطيل الكتابة";
+"UNLIMITED_REPLAY_DIRECT_MESSAGE_INSTAGRAM"="إعادة تشغيل غير محدود للرسالة المباشرة";
+
+
+/* Options Data Users */
+
+"OPTIONS_DATA_USERS"="خيارات الملف الشخصي";
+"OPTIONS_PROFILE"="اضافة خيارات للملف";
+"SHOW_FOLLOW_STATUS"="مشاهدة حالة المتابعة";
+"SHOW_PROFILE_IMAGE"="مشاهدة صورة الملف ";
+"OPTIONS_PROFILE_DESCRIOTIONS"="سوف يظهر زر \n -نسخ اليوزر \n -نسخ الاسم كامل \n -نسخ رابط البايو \n -نسخ البايو \n -مشاهدة صورة الملف ";

@@ -1,0 +1,5 @@
+"KEEP_DELETED_MESSAGES_SIGNAL"="Keep Deleted Messages";
+"DISABLE_READ_RECEIPT_SIGNAL"="Disable Read receipts";
+"DISABLE_TYPING_SIGNAL"="Disable Typing Indicator";
+"CONFIRM_SEND_MRSSAGE_SIGNAL"="Confirm Sent Messages";
+"CONFIRM_START_CALL_SIGNAL"="Confirm Start Call's";

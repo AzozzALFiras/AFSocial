@@ -1,8 +1,8 @@
-"Save_Instagram_Des"="With this feature,\n - download & Share videos and images from post & stories, \n -import music videos post \n -Copy description \n - Video Player";
+"Save_Instagram_Des"="With this feature,\n - download & Share videos and images from post & stories, \n -import music videos post \n -Copy description";
 "Save_Instagram"="Save media";
 "ShowLikes"="Show Likes";
 "ShowLikes_Des"="See the likes of the posts and the number of video views";
-"RemoveAds"="Remove ads";
+"RemoveAds"="Disable Ads Post";
 "Disable_auto_Stories"="Disable auto stories";
 "Remove_ads_Storeis"="Remove ads stories";
 "Disable_EmojiPicker"="Disable emoji on comments";
@@ -13,14 +13,41 @@
 "SpoofStore"="Spoof store";
 "Spoof_Post_Like"="Spoof post like";
 "Spoof_Des"="These features will only appear to you";
-"Copy_Comments"="Copy comments";
-"Copy_Description"="Copy Description";
-"More_Options_Profile_DES"="will show button for \n -Copy Username \n -Copy full name \n -Copy Bio link \n -Copy Bio \n -Show Profile Image \n -Show  number of followers \n -Show  number of following";
-"Options_Profile"="Add options to Profile";
-"Disable_Typing_IGDirect"="Disable Typing";
-"Disable_Typing_IGDirect_Des"="Disable Typing on Direct ";
-"Confirm_Like_Instagram"="Confirm Like";
-"Disable_Message_Seen_Receipt_Instagram"="Disable Message Seen Receipt";
-"Disable_Story_Seen_Receipt_Instagram"="Disable Story Seen Receipt";
-"Show_Profile_Picture"="Show Profile Picture";
-"Show_Follow_Status"="Show Follow Status";
+"COPY_COMMENTS"="Copy Comments";
+"COPY_DESCRIPTION"="Copy Description";
+"CONFIRM_LIKE_INSTAGRAM"="Confrim Like";
+
+/* POST */
+
+"OPTIONS_POST"="Options Post";
+"SAVE_VIDEO_POST"="Save Media";
+"SAVE_VIDEO_IGTV"="Save Video IGTV";
+"SAVE_VIDEO_REEL"="Save Video Reel";
+
+
+/* STORIES  */
+
+"OPTIONS_STOIRES"="Options Stoires";
+"SAVE_STORIRES"="Save Stoires";
+"DISABLE_AUTO_STORIRES"="Disable Auto Stories";
+"DISABLE_ADS_STORIRES"="Disable Ads Stories";
+"DISABLE_STORY_SEEN_RECEIPT"="Disable Story Seen";
+
+
+/* DIRECT MESSAGE */
+
+"OPTIONS_DIRECT_MESSAGE"="Options Direct Message";
+"DISABLE_DIRECT_MESSAGE_SEEN_RECEIPT"="Disable Direct Message Seen";
+"DISABLE_DIRECT_MESSAGE_TYPING_RECEIPT"="Disable Direct Message Typing";
+"UNLIMITED_REPLAY_DIRECT_MESSAGE_INSTAGRAM"="Unlimited Replay Direct Message";
+"KEEP_UNSENT_MESSAGES_INSTAGRAM"="View Unsent Messages";
+"SAVE_MEDIA_DM_INSTGARAM"="Save Media DM";
+
+
+/* Options Data Users */
+
+"OPTIONS_DATA_USERS"="Options Data Users";
+"OPTIONS_PROFILE"="Add options to Profile";
+"SHOW_FOLLOW_STATUS"="Show Follow Status";
+"SHOW_PROFILE_IMAGE"="Show Profile Image";
+"OPTIONS_PROFILE_DESCRIOTIONS"="will show button for \n -Copy Username \n -Copy full name \n -Copy Bio link \n -Copy Bio \n -Show Profile Image ";

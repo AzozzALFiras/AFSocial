@@ -1,0 +1,5 @@
+"KEEP_DELETED_MESSAGES_SIGNAL"="احتفظ بالرسائل المحذوفة";
+"DISABLE_READ_RECEIPT_SIGNAL"="تعطيل إيصالات القراءة";
+"DISABLE_TYPING_SIGNAL"="تعطيل مؤشر الكتابة";
+"CONFIRM_SEND_MRSSAGE_SIGNAL"="تاكيد ارسال الرسائل";
+"CONFIRM_START_CALL_SIGNAL"="تاكيد بدء الاتصال";

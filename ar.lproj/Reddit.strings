@@ -1,8 +1,9 @@
 "Save_Video"="حفظ الفيديوهات";
 "Import_Video"="استيراد صوت الفيديو";
-"Copy_Messages_Description"="نسخ الرسائل بواسطة الضغطة المطولة";
+"Copy_Messages_Description"="نسخ الرسالة بواسطة ضغطة مطولة";
 "Copy_Messages"="نسخ الرسائل";
 "Share_Messages"="مشاركة الرسائل";
-"Copy_Post_Description"="نسخ الوصف المنشورات بضغطة مطولة";
+"Copy_Post_Description"="نسخ بواسطة الضغطة المطولة";
 "Copy_Description_Reddit"="نسخ الوصف";
-"Copy_Title_Reddit"="نسخ النص";
+"Copy_Title_Reddit"="نسخ العنوان";
+"DisableAdsPostReddit"="تعطيل الاعلانات";

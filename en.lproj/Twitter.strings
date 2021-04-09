@@ -3,8 +3,7 @@
 "Save_Direct"="Save video direct";
 "Like_Twitter"="Confirm like";
 "Black_Keybord"="Black Keybord";
-"NoAdsTwitter"="No Ads";
-"DisableTypingMessage"="Disable Typing Messeages";
-"Enable_Voice_DM"="Enable Voice on DM";
-"Confirm_Follow"="Confirm Follow";
-"Skip_Analytic_URL"="Skip Analytic URL";
+"DATA_USER_TWITTER"="Show Data User";
+"NoAdsTwitter"="Disable DAS";
+"CONFIRM_FOLLOW_TWITTER"="Confirm Follow";
+"DISABLE_TYPING_TWITTER"="Disable Typing Indicator";
